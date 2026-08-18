@@ -1,0 +1,8 @@
+{
+  "avg_ast_parsing_time_seconds": 0.0049,
+  "total_files_parsed": 7,
+  "nodes_extracted_per_file": 7.29,
+  "edges_extracted_per_file": 29.86,
+  "rag_query_latency_seconds": 0.0146,
+  "token_reduction_percentage": 86.67
+}
